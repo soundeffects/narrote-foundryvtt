@@ -1,0 +1,11 @@
+{
+  "id": "narrote",
+  "title": "Narrote Tabletop System",
+  "description": "A setting-agnostic system designed to create a theatrical and cinematic experience.",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "url":
+}
